@@ -1,0 +1,15 @@
+.console-output {
+  background-color: black;
+  color: #F8F8FF;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.console-output a:link {
+  color: #D3FDFF;
+}
+
+.console-output a:visited {
+  color: #F5CEFF;
+}
